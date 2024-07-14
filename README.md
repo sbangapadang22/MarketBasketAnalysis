@@ -1,4 +1,4 @@
-# Market Basket Analysis
+`# Market Basket Analysis
 
 ### Project Overview
 Market Basket Analysis is a data mining technique used to discover associations between items in transactional data. It helps retailers understand the purchasing behavior of customers, which can be used for product placement, cross-selling, and targeted marketing.
@@ -19,6 +19,7 @@ The dataset used for this analysis is the Online Retail Data Set from the UCI Ma
 6. **Optimization and Testing:** Optimize the parameters of the mining algorithms for better performance and accuracy, and test the system with different subsets of data to evaluate its robustness.
 
 ### Project Structure
+```
 MarketBasketAnalysis/
 ├── data/
 │ ├── OnlineRetail.csv
@@ -37,7 +38,7 @@ MarketBasketAnalysis/
 │ ├── apriori_frequent_itemsets.csv
 │ └── fpgrowth_frequent_itemsets.csv
 └── README.md
-
+```
 
 ### Dependencies
 To install the required dependencies, run:
