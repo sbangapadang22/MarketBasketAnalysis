@@ -125,16 +125,16 @@ This project demonstrates the application of Market Basket Analysis using Aprior
 1. **Apriori Algorithm**:
    - [Wikipedia: Apriori Algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm)
    - [MLxtend Documentation: Apriori](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/)
-   - [Towards Data Science: Understanding Apriori Algorithm](https://towardsdatascience.com/understanding-apriori-algorithm-using-an-example-aaf2a2d5758a)
+   - [Towards Data Science: Understanding Apriori Algorithm](https://towardsdatascience.com/the-apriori-algorithm-5da3db9aea95)
 
 2. **FP-Growth Algorithm**:
    - [Wikipedia: FP-Growth Algorithm](https://en.wikipedia.org/wiki/Association_rule_learning#FP-growth_algorithm)
    - [MLxtend Documentation: FP-Growth](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/)
-   - [KDnuggets: FP-Growth Algorithm](https://www.kdnuggets.com/2016/04/fp-growth-algorithm-frequent-pattern-mining.html)
+   - [KDnuggets: FP-Growth Algorithm](https://www.kdnuggets.com/2019/12/market-basket-analysis.html)
 
 3. **Association Rule Learning**:
    - [Wikipedia: Association Rule Learning](https://en.wikipedia.org/wiki/Association_rule_learning)
-   - [A comprehensive guide to association rule mining](https://www.geeksforgeeks.org/association-rule-learning/)
+   - [A comprehensive guide to association rule mining](https://www.geeksforgeeks.org/association-rule/)
 
 If you have any issues or need any help running the code, please reach out!
 
